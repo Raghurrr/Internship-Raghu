@@ -1,0 +1,39 @@
+
+div{
+    height: 520px;
+    width:330px;
+    border: 1px solid;
+    margin-left: 640px;
+    margin-top: 130px;
+
+}
+button{
+    width:100px;
+    height:50px;
+    margin:1px;
+    background-color: hwb(203 0% 0% / 0.786);
+    color: black;
+}
+#s1{
+    width:190px;
+}
+#s2{
+    width:120px;
+}
+input{
+    height: 50px;
+    background-color: white;
+    border: 1px solid;
+}
+
+#main{
+    background-color: rgba(245, 245, 245, 0.288);
+}
+
+body {
+background-image: url('ee.jpg');
+background-size: cover; 
+background-repeat: no-repeat; 
+background-position: center; 
+}
+
